@@ -1,0 +1,29 @@
+
+#content > header {
+    height: 50px;
+    width: 100%;
+    background: #efefef;
+    margin: 0 0 50px 0;
+}
+#content > footer {
+    height: 50px;
+    width: 100%;
+    background: #efefef;
+    margin: 50px 0 0 0;
+}
+.menuItem {
+    display: inline-block;
+    margin: 0 10px;
+}
+.errorMsg {
+    color: red;
+}
+.example {
+    color: #aaaaaa;
+    font-size: 0.8em;
+    margin: 0 0 10px 0;
+}
+
+* {
+    background: red;
+}
